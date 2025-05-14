@@ -1,0 +1,4 @@
+github.com/Wyond/ai-call-center v0.0.0-20250425131128-7504b11b4ba9 h1:A0sbbsctFNtDZ41Ny5iyyjUJVymXy3bJ/JHioqNS+LM=
+github.com/Wyond/ai-call-center v0.0.0-20250425131128-7504b11b4ba9/go.mod h1:FTFnbnAhiAFwZYWUBr/ofFExtJ/yIvI87ZBiA84gRoc=
+github.com/alphacep/vosk-api/go v0.3.50 h1:2vSN41RCU1WdHEqBrhKtTggfKL6Yu5Dmj+urVszwiuw=
+github.com/alphacep/vosk-api/go v0.3.50/go.mod h1:9X8IJsHnFk/b1xyvjlZifo+ZL5VTAx3LW+JQce/eRcA=
